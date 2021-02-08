@@ -1,0 +1,81 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+  }
+  
+  .sender-column {
+    text-align: right;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+  
+  p,ul,ol,dl,address {
+    font-size: 1.1em;
+  }
+  
+  p, li, dd, dt, address {
+    line-height: 1.5;
+  }
+
+table, th, td{
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+table{
+  text-align: center;
+  color: #000;
+}
+td{
+  padding: 15px 40px;
+}
+.color1{
+  background-color: #7FFFd4;
+}
+
+.color2{
+  background-color: #ADFF2F;
+}
+.color3{
+  background-color: #FFFF00;
+}
+.color4{
+  background-color: #FFC0CB;
+}
+.color5{
+  background-color: #87CEFA;
+}
+
+.color6{
+  background-color: #32CD32;
+}
+
+.color7{
+  background-color: #D26891E;
+}
+
+.color8{
+  background-color: #FFC0CB;
+}
+
+.color9{
+  background-color: #DE143C;
+}
+
+.color1{
+  background-color: #87CEEB;
+}
+
+table, tr, .table2{
+  padding: 20px 45px;
+}
